@@ -1,0 +1,223 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.background{
+    height: 10000px;
+    width: 100%;
+    float: left;
+    background-color: black;
+    position:sticky;
+}
+.topbar{
+    height: 20px;
+    width: 100%;
+    float: left;
+    background-color: rgb(68, 193, 151);
+    position: sticky;
+    top: 0;
+}
+.topbar h5{
+    color: white;
+    margin-top:0.10%;
+    margin-left:0.50%;
+}
+.SectionMessage{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color: rgba(202, 202, 202, 0.297);
+}
+.crollsection1{
+    height: 100%;
+    width: 100%;
+    float: left;
+    overflow: scroll;
+}
+.profilediv{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: rgb(116, 115, 115);
+    outline:2px solid rgb(116, 115, 115);
+    position: sticky;
+    top: 21px;
+}
+.logo{
+    height: 100%;
+    width: 15%;
+    float: left;
+}
+.logo i{
+    color: white;
+    font-size: 45px;
+    margin-top: 2.5%;
+    margin-left: 10px;
+}
+.middiv{
+    height: 100%;
+    width: 55%;
+    float: left;
+}
+.icons{
+    height: 100%;
+    width: 30%;
+    float:right;
+}
+.icons i{
+    color: white;
+    font-size: 20px;
+    margin-top: 11%;
+    margin-left: 12%;
+}
+.Searchdiv{
+    height: 40px;
+    width: 100%;
+    float: left;
+    background-color: black;
+    position: sticky;
+    top: 70px;
+
+}
+.Searchdiv input{
+    height: 60%;
+    width: 90%;
+    float: left;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: rgba(202, 202, 202, 0.297);
+    color:white;
+}
+.Searchdiv i{
+    color:white;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.archive{
+    height: 30px;
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid silver;
+    background-color: rgb(110, 110, 110);
+    position: sticky;
+    top: 110px;
+
+}
+.logoarchived{
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+.logoarchived i{
+color: rgb(68, 193, 151);
+font-size: large;
+margin-top: 13%;
+margin-left: 50%;
+}
+.Archivednamediv{
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+.numberarchived{
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+.group{
+    height: 60px;
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid silver;
+}
+.usericonperson{
+    height: 100%;
+    width: 15%;
+    float: left;
+    background-color: black;
+}
+.cirle{
+    height: 50px;
+    width: 50px;
+    float: left;
+    border: 1px solid black;
+    background-image: url("https://us.123rf.com/450wm/gstockstudio/gstockstudio1604/gstockstudio160400008/54625118-confident-and-handsome-confident-young-man-holding-hand-on-chin-and-smiling-while-sitting-at-his-wor.jpg?ver=6");
+    background-size: 100% 100%;
+    border-radius: 50%;
+    margin-top: 6%;
+    margin-left: 10%;
+}
+.personsNAMES{
+    height: 100%;
+    width: 70%;
+    float: left;
+    background-color: black;
+
+}
+.name{
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+.Bio{
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+.notificatiosnmgs{
+    height: 100%;
+    width: 15%;
+    float: left;
+    background-color: black;
+
+}
+.time{
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+.notifictn{
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+.cirlenotifctn{
+    height: 20px;
+    width: 20px;
+    float: left;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.group1{
+    height: 60px;
+    width: 98%;
+    float: left;
+    border-bottom: 1px solid silver;
+}
+.screen{
+    height: 96%;
+    width: 69.85%;
+    float: left;
+    background-color: rgba(234, 226, 226, 0.423);
+    background-image: url("https://techwithlove.com/wp-content/uploads/2020/04/send-pictures-files-on-whatsapp-web.png");
+    background-size: 100% 100%;
+    border-left: 1px solid silver;
+    position: fixed;
+    right: 0px;
+    top: 20px;
+
+}
+.lastbar{
+    height: 10px;
+    width: 70%;
+    float: right;
+    background-color: rgb(68, 193, 151);
+    position: fixed;
+    bottom: 0px;
+    right:0px;
+}
